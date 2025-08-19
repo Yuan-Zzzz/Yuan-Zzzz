@@ -1,5 +1,7 @@
 [![Yuan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yuan-Zzzz&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Yuan-Zzzz)](https://git.io/streak-stats)
+
 <!--
 **Yuan-Zzzz/Yuan-Zzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
