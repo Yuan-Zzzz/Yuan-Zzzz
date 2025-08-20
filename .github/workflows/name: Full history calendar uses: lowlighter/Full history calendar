@@ -1,0 +1,8 @@
+name: Full history calendar
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.calendar.full.svg
+  token: ${{ secrets.PROFILE }}
+  base: ""
+  plugin_calendar: yes
+  plugin_calendar_limit: 0
